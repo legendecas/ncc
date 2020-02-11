@@ -1,7 +1,7 @@
 {
-  "name": "@zeit/ncc",
+  "name": "@midwayjs/ncc",
   "version": "0.21.0",
-  "repository": "zeit/ncc",
+  "repository": "midwayjs/ncc",
   "license": "MIT",
   "main": "./dist/ncc/index.js",
   "bin": {
