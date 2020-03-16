@@ -1,6 +1,6 @@
 {
   "name": "@midwayjs/ncc",
-  "version": "0.21.1",
+  "version": "0.22.1",
   "repository": "midwayjs/ncc",
   "license": "MIT",
   "main": "./dist/ncc/index.js",
